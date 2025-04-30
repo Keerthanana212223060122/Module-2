@@ -19,7 +19,7 @@ To write a Python program to print a triangular star pattern using loops.
 
 
 ### PROGRAM:
-```
+```python
 # Reg.No- 212223060122
 # Name- Keerthana S
 
