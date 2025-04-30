@@ -18,7 +18,7 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ---
 
-### 🧾 Program
+### Program:
 
 ```python
 # Reg.No- 212223060122
@@ -30,10 +30,10 @@ for i in range(1,n+1):
     print(i)
 
 ```
-### OUTPUT
+### OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/4d86ebd2-824a-4dbf-8a10-e65c6bef9180)
 
-### RESULT
+### RESULT:
 
 Thus a Python program for printing `n` natural numbers using a `for` loop was executed and implemented successfully.
