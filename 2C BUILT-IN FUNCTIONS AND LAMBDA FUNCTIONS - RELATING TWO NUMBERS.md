@@ -19,7 +19,7 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### PROGRAM:
 
-```
+```python
 # Reg.No- 212223060122
 # Name- Keerthana S
 
