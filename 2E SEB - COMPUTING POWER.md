@@ -15,7 +15,7 @@ To write a Python program to compute the power of a given number using an approp
 
 
 ### PROGRAM
-```
+```python
 # Reg.No- 212223060122
 # Name- Keerthana S
 
