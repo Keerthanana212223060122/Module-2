@@ -1,12 +1,12 @@
 # Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
 
-###  Aim
+###  Aim:
 To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ---
 
-###  Algorithm
+###  Algorithm:
 
 1. Begin the program.
 2. Use `input()` to read the value of `n` (the upper limit) from the user.
